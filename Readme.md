@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Sergey Dmitriev](https://up.htmlacademy.ru/htmlcss/37/user/2383237).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
 
 ---
 
